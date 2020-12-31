@@ -1,6 +1,6 @@
 # JexcelExample
 
-This project provides a working example of Jexcel using Angular. This example is based on work done by [jainpradeep].
+This project provides a working example of Jexcel using Angular. This example is based on work done by [jainpradeep](https://github.com/jainpradeep).
 
 ## Important aspects of the implementation
 - This example works with **Angular v11** and [Jexcel v3.3.0](https://bossanova.uk/jexcel/v3/)
